@@ -1,4 +1,5 @@
-# AI-Job-Application-Evaluation
+# AI-Job-Application-Evaluation-Project
+
 ## Classification with Decision Trees and Random Forest
 
 This project demonstrates how to classify data using Decision Trees and Random Forests. Below is an example of how the code is structured.
